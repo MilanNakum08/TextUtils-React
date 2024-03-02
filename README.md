@@ -1,7 +1,7 @@
 # Getting Started with Create React App
-https://milannakum08.github.io/TextUtils-React/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://milannakum08.github.io/TextUtils-React/
 
 ## Available Scripts
 
