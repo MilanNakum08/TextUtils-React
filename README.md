@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://milannakum08.github.io/TextUtils-React/
 
+![Uploading image.png…]()
+
 A React-based web application offering essential text manipulation tools, including:
 
 -Uppercase/Lowercase Conversion
