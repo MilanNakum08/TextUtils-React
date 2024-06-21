@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://milannakum08.github.io/TextUtils-React/
 
-![Uploading image.png…]()
+![image](https://github.com/MilanNakum08/TextUtils-React/assets/141490590/b80d1a8f-fa16-4f89-8f60-ec7749463a03)
 
 A React-based web application offering essential text manipulation tools, including:
 
