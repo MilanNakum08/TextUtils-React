@@ -6,15 +6,15 @@ https://milannakum08.github.io/TextUtils-React/
 
 A React-based web application offering essential text manipulation tools, including:
 
-Uppercase/Lowercase Conversion
+-Uppercase/Lowercase Conversion
 
-Word and Character Count
+-Word and Character Count
 
-Removing Extra Spaces
+-Removing Extra Spaces
 
-Copy Text
+-Copy Text
 
-Speak
+-Speak
 
 ## Available Scripts
 
